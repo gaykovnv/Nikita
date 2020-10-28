@@ -1,0 +1,77 @@
+input::placeholder {
+  color: darkcyan;
+}
+
+.colortext {
+  font-weight: bold;
+  color: darkcyan;
+}
+
+body {
+  background-color: darkcyan;
+}
+
+h1 {
+  font-weight: bold;
+  color: white;
+}
+
+label {
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  font-weight: bold;
+  color: red;
+}
+
+#myNumber {
+  width: 182px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+#myName {
+  width: 182px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+#myProf {
+  width: 182px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+#myDate {
+  width: 182px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+#myArea {
+  width: 182px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+#myBtn {
+  font-weight: bold;
+  width: 91px;
+  height: 40px;
+  border-radius: 25px;
+}
+
+#mySave {
+  font-weight: bold;
+  width: 91px;
+  height: 40px;
+  border-radius: 25px;
+}
+
